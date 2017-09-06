@@ -7,4 +7,4 @@
 
 = Hello World!
 
-This is my first post using Hubpress!
+This is my very first blog ever. 
