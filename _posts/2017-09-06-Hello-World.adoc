@@ -7,4 +7,4 @@
 
 = Hello World!
 
-This is my very first blog ever. 
+This is my very first blog ever. Inthis blog I will be talking about anything and everything to do with technology from software to machine learning to whatever the internet can throw at me. 
