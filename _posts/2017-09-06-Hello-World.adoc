@@ -7,4 +7,8 @@
 
 = Hello World!
 
-This is my very first blog ever. Inthis blog I will be talking about anything and everything to do with technology from software to machine learning to whatever the internet can throw at me. 
+This is my very first blog ever. In this blog I will be talking about anything and everything to do with technology from software to machine learning to whatever the internet can throw at me. 
+
+For my first post I will begin on a topic that I feel doesn't get enough attention: Antipatterns
+
+So what is an Antipattern anyways? An Antipattern is a commonly occuring solution to a problem that generates decidedly negative consequences. 
